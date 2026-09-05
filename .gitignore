@@ -1,0 +1,8 @@
+# Dados brutos e derivados (arquivos grandes, nao versionados)
+data/Varejo.csv
+data/Varejo_limpo.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
