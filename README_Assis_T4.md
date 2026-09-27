@@ -1,7 +1,7 @@
 # README_Assis_T4
 
-Mini-Projeto Avaliativo — Análise de Dados com Python T4 — Módulo 1, Semana 07
-Aluno: Assis | Turma: T4
+Mini-Projeto Avaliativo — Análise de Dados com Python T5 — Módulo 1, Semana 07
+Aluno: Assis | Turma: T5
 
 ## Instruções de execução
 
