@@ -3,7 +3,7 @@
 Mini-Projeto Avaliativo do módulo **Manipulação de Dados com Python e SQL** (Módulo 1, Semana 07) — Análise Exploratória de Dados (AED) sobre a base pública de varejo **"Base Varejo"**, do Kaggle.
 
 - Aluno: Assis
-- Turma: T4
+- Turma: T5
 - Fonte dos dados: [kaggle.com/datasets/namespaiva/base-varejo](https://www.kaggle.com/datasets/namespaiva/base-varejo)
 
 ## Sobre o projeto
